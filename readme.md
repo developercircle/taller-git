@@ -1,9 +1,10 @@
 # Taller de git 
 
-## Comando para iniciar un repositorio
+#### Comando para iniciar un repositorio
 
 	git init
 	
-## Comando ver el estado del repo
+#### Comando ver el estado del repo
 
 	git status
+	
