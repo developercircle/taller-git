@@ -7,4 +7,8 @@
 #### Comando ver el estado del repo
 
 	git status
-	
+
+## creación de una rama
+
+	git branch leo
+
